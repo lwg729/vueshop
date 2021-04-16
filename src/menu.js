@@ -16,7 +16,7 @@ var menus = [
       { title: "规格参数", path: "/specification" }
     ]
   },
-  {
+  /*{
     action: "people",
     title: "会员管理",
     path:"/user",
@@ -45,7 +45,7 @@ var menus = [
       { title: "角色管理", path: "/role" },
       { title: "人员管理", path: "/member" }
     ]
-  }
+  }*/
 ]
 
 export default menus;

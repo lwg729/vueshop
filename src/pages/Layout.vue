@@ -106,7 +106,7 @@
   export default {
     data() {
       return {
-        dark: false,// 是否暗黑主题
+        dark: true,// 是否暗黑主题
         drawer: true,// 左侧导航是否隐藏
         miniVariant: false,// 左侧导航是否收起
         title: '小商品销售后台管理',// 顶部导航条名称,
